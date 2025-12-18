@@ -75,7 +75,7 @@ BBO-Capstone/
 │
 ├── README.md                     # Project overview and documentation
 └── requirements.txt              # Python dependencies
-```text
+
 
 This structure keeps data, models, queries, and analysis notebooks organized, making it easy to reproduce experiments and track iterative progress.
 
