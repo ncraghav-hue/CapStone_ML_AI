@@ -58,6 +58,7 @@ Each round of queries informs the next
 Surrogate models and heuristics improve with additional data
 
 Project Structure
+```text
 BBO-Capstone/
 │
 ├── data/
